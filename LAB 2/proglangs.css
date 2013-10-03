@@ -4,14 +4,17 @@ body {
         Times, serif;
   color: black;
   background-color: #385EA3 }
-ul.navigasjon {
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
-  position:fixed;
-  top: 2em;
-  left: 380px;
-  width: 9em }
+ul.navigasjon {							
+
+	list-style-type: none;			
+    padding: 0;
+    margin: 0;	
+    position: absolute;				
+    top: 2em;
+    left: 1em;
+    width: 9em; 
+	
+	}
 h1 {
   font-family: Helvetica, Geneva, Arial,
         SunSans-Regular, sans-serif }
